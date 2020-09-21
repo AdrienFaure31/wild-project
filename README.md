@@ -1,2 +1,4 @@
 # wild-project
-atelier git 
+How to install this project?
+All we have to do for now is clone it.
+Watch what Chip does and pay attention 
